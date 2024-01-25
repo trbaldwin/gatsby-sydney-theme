@@ -92,7 +92,7 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
+                Our founder, Thomas Baldwin, had both an eye for quality and a
                 desire to innovate. As well as using the finest fibres such as
                 Sea Island cotton, cashmere and silk, he invented his own
                 fabrics. Sunspel continues this commitment to innovation today
